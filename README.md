@@ -1,3 +1,5 @@
+### Note: Compared to the original repo, this repo removes the tracking and filterpy related codes and dependencies, because many people encounter difficulties in installation under Windows.
+
 # ![icon](assets/icon_small.png) FaceXLib
 
 [![PyPI](https://img.shields.io/pypi/v/facexlib)](https://pypi.org/project/facexlib/)
@@ -31,7 +33,6 @@ Other recommended projects: &emsp; :arrow_forward: [Real-ESRGAN](https://github.
 | [Parsing](facexlib/parsing/README.md) | [face-parsing.PyTorch](https://github.com/zllrunning/face-parsing.PyTorch) | MIT |
 | [Matting](facexlib/matting/README.md) | [MODNet](https://github.com/ZHKKKe/MODNet) | CC 4.0 |
 | [Headpose](facexlib/headpose/README.md) | [deep-head-pose](https://github.com/natanielruiz/deep-head-pose) | Apache 2.0  |
-| [Tracking](facexlib/tracking/README.md) |  [SORT](https://github.com/abewley/sort) | GPL 3.0 |
 | [Assessment](facexlib/assessment/README.md) | [hyperIQA](https://github.com/SSL92/hyperIQA) | - |
 | [Utils](facexlib/utils/README.md) | Face Restoration Helper | - |
 

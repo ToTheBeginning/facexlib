@@ -4,7 +4,7 @@
 
 ---
 
-`facexlib` is a **pytorch-based** library for **face-related** functions, such as detection, alignment, recognition, tracking, utils for face restorations, *etc*.
+`facexlib` is a **pytorch-based** library for **face-related** functions, such as detection, alignment, recognition, utils for face restorations, *etc*.
 It only provides inference (without training).
 This repo is based current STOA open-source methods (see [more details](#Functions)).
 
@@ -23,7 +23,6 @@ This repo is based current STOA open-source methods (see [more details](#Functio
 | Detection | ([More details](detection/README.md) | [Pytorch_Retinaface](https://github.com/biubug6/Pytorch_Retinaface) |
 | Alignment | ([More details](alignment/README.md) | [AdaptiveWingLoss](https://github.com/protossw512/AdaptiveWingLoss) |
 | Recognition | ([More details](recognition/README.md) | [InsightFace_Pytorch](https://github.com/TreB1eN/InsightFace_Pytorch) |
-| Tracking | ([More details](tracking/README.md) | [SORT](https://github.com/abewley/sort) |
 | Utils | ([More details](utils/README.md)) | |
 
 ## :scroll: License and Acknowledgement

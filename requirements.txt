@@ -1,4 +1,3 @@
-filterpy
 numba
 numpy
 numpy

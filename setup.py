@@ -90,7 +90,7 @@ if __name__ == '__main__':
         author='Xintao Wang',
         author_email='xintao.wang@outlook.com',
         keywords='computer vision, face, detection, landmark, alignment',
-        url='https://github.com/xinntao/facexlib',
+        url='https://github.com/ToTheBeginning/facexlib',
         include_package_data=True,
         packages=find_packages(exclude=('options', 'datasets', 'experiments', 'results', 'tb_logger', 'wandb')),
         classifiers=[
